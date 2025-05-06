@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221763045283826210/730c93b66a4f43c8836ce12b91d9af3c/artifacts
+end_time: 1746537776559
+entry_point_name: ''
+experiment_id: '221763045283826210'
+lifecycle_stage: active
+run_id: 730c93b66a4f43c8836ce12b91d9af3c
+run_name: able-boar-292
+run_uuid: 730c93b66a4f43c8836ce12b91d9af3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746537776222
+status: 4
+tags: []
+user_id: root

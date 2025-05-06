@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221763045283826210/526dab0b77894a4c97bf0967f82059d6/artifacts
+end_time: 1746533627982
+entry_point_name: ''
+experiment_id: '221763045283826210'
+lifecycle_stage: active
+run_id: 526dab0b77894a4c97bf0967f82059d6
+run_name: nervous-wasp-376
+run_uuid: 526dab0b77894a4c97bf0967f82059d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746532869872
+status: 4
+tags: []
+user_id: root

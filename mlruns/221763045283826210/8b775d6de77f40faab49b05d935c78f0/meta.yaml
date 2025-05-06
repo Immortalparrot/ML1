@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221763045283826210/8b775d6de77f40faab49b05d935c78f0/artifacts
+end_time: 1746541086186
+entry_point_name: ''
+experiment_id: '221763045283826210'
+lifecycle_stage: active
+run_id: 8b775d6de77f40faab49b05d935c78f0
+run_name: bedecked-carp-286
+run_uuid: 8b775d6de77f40faab49b05d935c78f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746541061589
+status: 3
+tags: []
+user_id: root

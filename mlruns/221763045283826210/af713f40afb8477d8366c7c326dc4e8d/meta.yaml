@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221763045283826210/af713f40afb8477d8366c7c326dc4e8d/artifacts
+end_time: 1746540696120
+entry_point_name: ''
+experiment_id: '221763045283826210'
+lifecycle_stage: active
+run_id: af713f40afb8477d8366c7c326dc4e8d
+run_name: invincible-bat-503
+run_uuid: af713f40afb8477d8366c7c326dc4e8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746540673409
+status: 3
+tags: []
+user_id: root
